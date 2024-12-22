@@ -21,6 +21,9 @@ Hi, I’m Anpabelt Trah Javala!<br>I’m a passionate designer and developer wit
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anpabeltj&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+# 🐍 Feeding...
+![Snake animation](https://raw.githubusercontent.com/anpabeltj/anpabeltj/output/github-contribution-grid-snake-dark.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=anpabeltj&icon=0&color=6)](https://visitcount.itsvg.in)
 
