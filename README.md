@@ -1,8 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋🏻;Second+line+of+text)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
 Hi, I’m Anpabelt Trah Javala!<br>I’m a passionate designer and developer with a knack for creating user-friendly and visually appealing web experiences. <br>Beyond design, I also have a keen interest in data analysis and enjoy exploring insights through data.<br><br>Feel free to check out my featured projects or learn more about me in the sections below. Let’s connect and collaborate!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anpabelt) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anpabelt) 
 
 # 💻 Tech Stack:
