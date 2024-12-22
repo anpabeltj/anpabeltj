@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋🏻;Second+line+of+text)](https://git.io/typing-svg)
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&repeat=true&vCenter=true&size=40lines=Hi+There+👋🏻;I'm+Anpabelt+Trah+Javala!" />
+</h1>
+
+
 
 
 # 💫 About Me:
@@ -30,4 +34,3 @@ Hi, I’m Anpabelt Trah Javala!<br>I’m a passionate designer and developer wit
 ---
 [![](https://visitcount.itsvg.in/api?id=anpabeltj&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
