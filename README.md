@@ -17,7 +17,7 @@ Hi, I’m Anpabelt Trah Javala!<br>I’m a passionate designer and developer wit
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,vscode,neovim,vite,vercel,git,github,figma,cloudflare,postman,prisma" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,vscode,vite,vercel,git,github,figma,cloudflare,postman,prisma" />
     <img src="https://skillicons.dev/icons?i=py,pytorch,mysql,postgres,r,tensorflow,anaconda,opencv" />
   </a>
 </p>
