@@ -1,8 +1,9 @@
 <h1 align="center">
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=35&pause=1000&color=FE438E&background=141321&center=true&vCenter=true&repeat=true&lines=Hi+There+👋🏻;I+am+Anpabelt!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=40&duration=3000&pause=1000&color=FE438E&background=14132100&center=true&vCenter=true&width=300&height=100&lines=Hi%2C+i'm+Anpabelt+%F0%9F%91%8B%F0%9F%8F%BB;Web+Dev+%F0%9F%92%BB;Data+%F0%9F%93%8A;Design+%F0%9F%8E%A8"/>
 </h1>
 </h1>
+
 
 
 
